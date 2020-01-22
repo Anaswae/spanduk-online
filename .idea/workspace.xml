@@ -1,0 +1,805 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d44d733a-26f0-4068-8128-fae11d483836" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="adminweb.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/controllers/adminweb.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3145">
+              <caret line="185" column="71" selection-start-line="185" selection-start-column="71" selection-end-line="185" selection-end-column="71" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="edit.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/views/adminweb/bank/edit.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="918">
+              <caret line="54" column="106" selection-start-line="54" selection-start-column="106" selection-end-line="54" selection-end-column="106" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="add.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/views/adminweb/bank/add.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1037">
+              <caret line="61" column="106" selection-start-line="61" selection-start-column="106" selection-end-line="61" selection-end-column="106" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/controllers/home.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="97" column="116" selection-start-line="97" selection-start-column="116" selection-end-line="97" selection-end-column="116" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="db_adriano.sql" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DATABASE/db_adriano.sql">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="home_model.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/models/home_model.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="833">
+              <caret line="49" column="51" selection-start-line="49" selection-start-column="51" selection-end-line="49" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="admin_model.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/models/admin_model.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1139">
+              <caret line="67" column="68" selection-start-line="67" selection-start-column="68" selection-end-line="67" selection-end-column="68" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>logo</find>
+      <find>isi_hubungi_kami_kirim</find>
+      <find>tbl_hubungikami</find>
+      <find>tbl_hubungi_kami_kirim</find>
+      <find>id_hubungikami</find>
+      <find>tbl_hubu</find>
+      <find>tbl_transaksi_header</find>
+      <find>id_transaksi_header</find>
+      <find>id_hubungi_kami_kirim</find>
+      <find>jasa</find>
+      <find>segera</find>
+      <find>bank</find>
+      <find>insta</find>
+      <find>e27504c5cfbd695105b1cd7a6af9ba78</find>
+      <find>adriano</find>
+      <find>09102018193224A</find>
+      <find>adr</find>
+      <find>09102018195518A</find>
+      <find>produk(</find>
+      <find>uplk</find>
+      <find>amx</find>
+      <find>id,</find>
+      <find>transaksi</find>
+      <find>input</find>
+      <find>kota</find>
+      <find>tambah</find>
+      <find>kategori_</find>
+      <find>daftar</find>
+      <find>kategori(</find>
+      <find>sama</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>home/keranjang</replace>
+      <replace>pw</replace>
+      <replace>password</replace>
+      <replace>id_admin</replace>
+      <replace>Pesan</replace>
+      <replace>pesan</replace>
+      <replace>keranjang</replace>
+      <replace>id_pesan_terkirim</replace>
+      <replace>tbl_pesan</replace>
+      <replace>tbl_pesan_terkirim</replace>
+      <replace>id_pesan</replace>
+      <replace>tbl_transaksi</replace>
+      <replace>id_transaksi</replace>
+      <replace>c.</replace>
+      <replace>isi_pesan_terkirim</replace>
+      <replace>e27504c5cfbd695105b1cd7a6af9ba78</replace>
+      <replace>09102018193224A</replace>
+      <replace>09102018195518A</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\xampp\htdocs\toko_online\e-commerce2\application\views\home</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/toko_fara-master/admin/tambah.php" />
+        <option value="$PROJECT_DIR$/galeri_fashion/paneladmin/cek_login.php" />
+        <option value="$PROJECT_DIR$/griyagaya/adminweb/cek_login.php" />
+        <option value="$PROJECT_DIR$/application/views/adminweb/produk/index.php" />
+        <option value="$PROJECT_DIR$/application/views/home/kategori.php" />
+        <option value="$PROJECT_DIR$/application/views/home/checkout.php" />
+        <option value="$PROJECT_DIR$/application/views/home/konfirmasi_pembayaran.php" />
+        <option value="$PROJECT_DIR$/application/views/home/konfirmasi_bayar.php" />
+        <option value="$PROJECT_DIR$/system/libraries/Email.php" />
+        <option value="$PROJECT_DIR$/application/views/adminweb/admin/index.php" />
+        <option value="$PROJECT_DIR$/application/views/adminweb/pesan/index.php" />
+        <option value="$PROJECT_DIR$/application/views/adminweb/pesan/kirim.php" />
+        <option value="$PROJECT_DIR$/application/views/adminweb/pesan/detail_kirim.php" />
+        <option value="$PROJECT_DIR$/application/views/adminweb/pesan/detail.php" />
+        <option value="$PROJECT_DIR$/application/views/adminweb/pesan/balas.php" />
+        <option value="$PROJECT_DIR$/application/views/adminweb/pesan/add.php" />
+        <option value="$PROJECT_DIR$/application/views/home/sidebar.php" />
+        <option value="$PROJECT_DIR$/application/views/home/profile.php" />
+        <option value="$PROJECT_DIR$/application/views/home/keranjang.php" />
+        <option value="$PROJECT_DIR$/application/views/home/detail_riwayat.php" />
+        <option value="$PROJECT_DIR$/application/views/home/tentang_kami.php" />
+        <option value="$PROJECT_DIR$/application/views/home/hubungi_kami.php" />
+        <option value="$PROJECT_DIR$/application/views/adminweb/transaksi/detail.php" />
+        <option value="$PROJECT_DIR$/application/views/adminweb/transaksi/detail_gagal.php" />
+        <option value="$PROJECT_DIR$/application/views/adminweb/transaksi/detail_semua.php" />
+        <option value="$PROJECT_DIR$/application/views/adminweb/transaksi/gagal.php" />
+        <option value="$PROJECT_DIR$/application/views/adminweb/transaksi/index.php" />
+        <option value="$PROJECT_DIR$/application/views/adminweb/transaksi/sudah.php" />
+        <option value="$PROJECT_DIR$/application/views/home/riwayat_pesanan.php" />
+        <option value="$PROJECT_DIR$/application/config/database.php" />
+        <option value="$PROJECT_DIR$/application/views/home/header.php" />
+        <option value="$PROJECT_DIR$/application/views/home/footer.php" />
+        <option value="$PROJECT_DIR$/application/config/config.php" />
+        <option value="$PROJECT_DIR$/application/views/adminweb/home.php" />
+        <option value="$PROJECT_DIR$/application/views/adminweb/login.php" />
+        <option value="$PROJECT_DIR$/application/views/template.php" />
+        <option value="$PROJECT_DIR$/application/views/home/cara_belanja.php" />
+        <option value="$PROJECT_DIR$/application/views/home/produk.php" />
+        <option value="$PROJECT_DIR$/application/views/home/index.php" />
+        <option value="$PROJECT_DIR$/application/views/adminweb/kategori/edit.php" />
+        <option value="$PROJECT_DIR$/application/views/adminweb/produk/add.php" />
+        <option value="$PROJECT_DIR$/application/views/adminweb/produk/edit.php" />
+        <option value="$PROJECT_DIR$/application/views/adminweb/kategori/index.php" />
+        <option value="$PROJECT_DIR$/application/views/adminweb/kota/index.php" />
+        <option value="$PROJECT_DIR$/application/views/adminweb/kota/edit.php" />
+        <option value="$PROJECT_DIR$/application/views/adminweb/bank/edit.php" />
+        <option value="$PROJECT_DIR$/application/views/adminweb/bank/add.php" />
+        <option value="$PROJECT_DIR$/application/models/home_model.php" />
+        <option value="$PROJECT_DIR$/application/controllers/home.php" />
+        <option value="$PROJECT_DIR$/application/controllers/adminweb.php" />
+        <option value="$PROJECT_DIR$/application/models/admin_model.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/assets/plugins/chosen-bootstrap/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="784" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="e-commerce2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="e-commerce2" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="e-commerce2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="e-commerce2" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="DATABASE" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../akadsekolah" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\toko_online\e-commerce2\application\views\home" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CodeceptionConfigurationType" factoryName="Codeception">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d44d733a-26f0-4068-8128-fae11d483836" name="Default" comment="" />
+      <created>1523505806514</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1523505806514</updated>
+      <workItem from="1523505808263" duration="9951000" />
+      <workItem from="1538145138582" duration="3622000" />
+      <workItem from="1538211461268" duration="1247000" />
+      <workItem from="1538214167085" duration="1471000" />
+      <workItem from="1538238755220" duration="6509000" />
+      <workItem from="1538292295479" duration="3022000" />
+      <workItem from="1538731433182" duration="1867000" />
+      <workItem from="1538739723783" duration="8174000" />
+      <workItem from="1538753882682" duration="11750000" />
+      <workItem from="1538897672505" duration="20089000" />
+      <workItem from="1539013222789" duration="2525000" />
+      <workItem from="1539111081133" duration="8287000" />
+      <workItem from="1539336749117" duration="662000" />
+      <workItem from="1539365254818" duration="3244000" />
+      <workItem from="1539512997473" duration="6450000" />
+      <workItem from="1539705324887" duration="837000" />
+      <workItem from="1540217280111" duration="2160000" />
+      <workItem from="1540635103201" duration="325000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="92192000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17715959" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/application/views/adminweb/tentangkami/index.php" />
+    <entry file="file://$PROJECT_DIR$/application/views/adminweb/logo/index.php" />
+    <entry file="file://$PROJECT_DIR$/application/views/adminweb/sosial_media/index.php" />
+    <entry file="file://$PROJECT_DIR$/application/views/adminweb/admin/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="72" selection-start-line="5" selection-start-column="72" selection-end-line="5" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/adminweb/pesan/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1394">
+          <caret line="82" column="122" selection-start-line="82" selection-start-column="122" selection-end-line="82" selection-end-column="122" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/adminweb/pesan/kirim.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1156">
+          <caret line="68" column="129" selection-start-line="68" selection-start-column="129" selection-end-line="68" selection-end-column="129" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/adminweb/pesan/detail_kirim.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="884">
+          <caret line="52" column="108" selection-start-line="52" selection-start-column="108" selection-end-line="52" selection-end-column="108" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/adminweb/pesan/detail.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="47" column="85" selection-start-line="47" selection-start-column="85" selection-end-line="47" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/adminweb/pesan/add.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/adminweb/pesan/balas.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="46" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/home/sidebar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/home/profile.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="33" column="17" lean-forward="true" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/home/keranjang.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="413">
+          <caret line="159" column="18" lean-forward="true" selection-start-line="159" selection-start-column="18" selection-end-line="159" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/home/detail_riwayat.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="59" selection-start-line="59" selection-end-line="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/home/tentang_kami.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="52" selection-start-line="20" selection-start-column="52" selection-end-line="20" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/adminweb/transaksi/detail.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-527">
+          <caret line="56" selection-start-line="56" selection-end-line="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/adminweb/transaksi/detail_gagal.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="54" selection-start-line="54" selection-end-line="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/adminweb/transaksi/detail_semua.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-391">
+          <caret line="55" selection-start-line="55" selection-end-line="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/adminweb/transaksi/gagal.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-143">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/adminweb/transaksi/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="986">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/adminweb/transaksi/sudah.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="901">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/home/riwayat_pesanan.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" selection-start-line="35" selection-end-line="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="55" column="32" lean-forward="true" selection-start-line="55" selection-start-column="32" selection-end-line="55" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/home/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="6" column="39" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="226" column="41" selection-start-line="226" selection-start-column="41" selection-end-line="226" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/adminweb/home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/adminweb/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="83" column="12" selection-start-line="83" selection-start-column="12" selection-end-line="83" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/home/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="84" column="103" selection-start-line="84" selection-start-column="68" selection-end-line="84" selection-end-column="103" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="49" column="44" selection-start-line="49" selection-start-column="44" selection-end-line="49" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/home/cara_belanja.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="20" column="61" selection-start-line="20" selection-start-column="61" selection-end-line="20" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/adminweb/produk/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="43" column="42" selection-start-line="43" selection-start-column="42" selection-end-line="43" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/home/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1632">
+          <caret line="96" column="70" selection-start-line="96" selection-start-column="70" selection-end-line="96" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/home/hubungi_kami.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="23" column="103" selection-start-line="23" selection-start-column="84" selection-end-line="23" selection-end-column="103" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/home/produk.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="53" column="63" selection-start-line="53" selection-start-column="63" selection-end-line="53" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/adminweb/produk/edit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1598">
+          <caret line="94" column="122" selection-start-line="94" selection-start-column="122" selection-end-line="94" selection-end-column="122" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/adminweb/kategori/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1683">
+          <caret line="99" column="164" selection-start-line="99" selection-start-column="145" selection-end-line="99" selection-end-column="164" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/adminweb/produk/add.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="45" column="119" selection-start-line="45" selection-start-column="119" selection-end-line="45" selection-end-column="119" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/adminweb/kategori/edit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="61" selection-start-line="22" selection-start-column="61" selection-end-line="22" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/adminweb/kota/edit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1309">
+          <caret line="77" column="25" selection-start-line="77" selection-start-column="25" selection-end-line="77" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/adminweb/kota/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2278">
+          <caret line="134" column="20" selection-start-line="134" selection-start-column="20" selection-end-line="139" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/adminweb/bank/add.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1037">
+          <caret line="61" column="106" selection-start-line="61" selection-start-column="106" selection-end-line="61" selection-end-column="106" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://PHP/\admin_model">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>PHP</ID>
+          <OriginalElement>\admin_model</OriginalElement>
+          <nodes>
+            <node x="0.0" y="102.0">\admin_model</node>
+            <node x="105.0" y="0.0">\CI_Model</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="\admin_model" target="\CI_Model">
+              <point x="0.0" y="-455.0" />
+              <point x="0.0" y="26.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-269.0" y="692.0" />
+          <SelectedNodes>
+            <node>\admin_model</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://PHP/\home_model">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>PHP</ID>
+          <OriginalElement>\home_model</OriginalElement>
+          <nodes>
+            <node x="249.0" y="0.0">\CI_Model</node>
+            <node x="-70.0" y="-286.0">\home_model</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="\home_model" target="\CI_Model">
+              <point x="0.0" y="-345.0" />
+              <point x="0.0" y="26.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-271.0" y="306.0" />
+          <SelectedNodes>
+            <node>\home_model</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://PHP/\adminweb">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>PHP</ID>
+          <OriginalElement>\adminweb</OriginalElement>
+          <nodes>
+            <node x="-112.0" y="-94.0">\adminweb</node>
+            <node x="-446.0" y="36.0">\CI_Controller</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="\adminweb" target="\CI_Controller">
+              <point x="0.0" y="-532.0" />
+              <point x="0.0" y="26.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-271.0" y="665.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://PHP/\home">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>PHP</ID>
+          <OriginalElement>\home</OriginalElement>
+          <nodes>
+            <node x="0.0" y="102.0">\home</node>
+            <node x="30.5" y="0.0">\CI_Controller</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="\home" target="\CI_Controller">
+              <point x="0.0" y="-268.0" />
+              <point x="0.0" y="26.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="51.0" y="368.0" />
+          <SelectedNodes>
+            <node>\home</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/home_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="49" column="51" selection-start-line="49" selection-start-column="51" selection-end-line="49" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/adminweb/bank/edit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="54" column="106" selection-start-line="54" selection-start-column="106" selection-end-line="54" selection-end-column="106" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/adminweb.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3145">
+          <caret line="185" column="71" selection-start-line="185" selection-start-column="71" selection-end-line="185" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/admin_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1139">
+          <caret line="67" column="68" selection-start-line="67" selection-start-column="68" selection-end-line="67" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="97" column="116" selection-start-line="97" selection-start-column="116" selection-end-line="97" selection-end-column="116" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DATABASE/db_adriano.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>
